@@ -30,7 +30,7 @@ module.exports = {
     indent: [1, 2, { SwitchCase: 1 }],
     // camelcase: RULES.OFF,
     'no-undef': RULES.OFF,
-    'no-unused-vars': RULES.WARN,
+    'no-unused-vars': RULES.OFF,
     'no-use-before-define': RULES.OFF,
     'react/jsx-boolean-value': RULES.OFF,
     'react/jsx-first-prop-new-line': RULES.OFF,
